@@ -1,0 +1,5 @@
+/venv/
+/.cache/
+/.idea/
+datingapp/ui/views/resources/role-screen-bak.ui
+**/__pycache__/
